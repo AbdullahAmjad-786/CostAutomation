@@ -1,0 +1,253 @@
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\EnterpriseAutomation.dll.config
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\EnterpriseAutomation.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\EnterpriseAutomation.pdb
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\csc.exe
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\csc.exe.config
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\csc.rsp
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\csi.exe
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\csi.exe.config
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\csi.rsp
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.AppContext.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Console.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\vbc.exe
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\vbc.exe.config
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\vbc.rsp
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\obj\Release\EnterpriseAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\obj\Release\EnterpriseAutomation.csproj.CopyComplete
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\obj\Release\EnterpriseAutomation.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\obj\Release\EnterpriseAutomation.pdb
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\obj\Release\EnterpriseAutomation.csprojAssemblyReference.cache
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\System.Management.Automation.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.KeyVault.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.AppService.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.BatchAI.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Cdn.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Compute.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.ContainerInstance.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.ContainerRegistry.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.ContainerService.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.CosmosDB.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Dns.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.EventHub.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Graph.RBAC.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.KeyVault.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Locks.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Monitor.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Msi.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Network.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Redis.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.ResourceManager.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Search.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.ServiceBus.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Sql.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Storage.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.TrafficManager.Fluent.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Newtonsoft.Json.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\System.Web.Mvc.dll
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.KeyVault.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.KeyVault.WebKey.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.AppService.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.BatchAI.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Cdn.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Compute.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.ContainerInstance.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.ContainerRegistry.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.ContainerService.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.CosmosDB.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Dns.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.EventHub.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Graph.RBAC.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.KeyVault.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Locks.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Monitor.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Msi.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Network.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Redis.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.ResourceManager.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Search.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.ServiceBus.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Sql.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Storage.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.TrafficManager.Fluent.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Abdullah Amjad\source\repos\EnterpriseAutomation\EnterpriseAutomation\bin\Newtonsoft.Json.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\EnterpriseAutomation.dll.config
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\EnterpriseAutomation.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\EnterpriseAutomation.pdb
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\csc.exe
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\csc.exe.config
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\csc.rsp
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\csi.exe
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\csi.exe.config
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\csi.rsp
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.AppContext.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Collections.Immutable.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Console.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.IO.Compression.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.IO.FileSystem.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.IO.Pipes.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Reflection.Metadata.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Security.AccessControl.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Security.Claims.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.ValueTuple.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Xml.XPath.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\vbc.exe
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\vbc.exe.config
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\vbc.rsp
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\VBCSCompiler.exe
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\roslyn\VBCSCompiler.exe.config
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.KeyVault.Core.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.KeyVault.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.KeyVault.WebKey.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.AppService.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.BatchAI.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Cdn.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Compute.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.ContainerInstance.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.ContainerRegistry.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.ContainerService.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.CosmosDB.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Dns.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.EventHub.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Graph.RBAC.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.KeyVault.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Locks.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Monitor.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Msi.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Network.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Redis.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.ResourceManager.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Search.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.ServiceBus.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Sql.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Storage.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.TrafficManager.Fluent.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.IdentityModel.Logging.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.WindowsAzure.Storage.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Newtonsoft.Json.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.KeyVault.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.KeyVault.Core.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.KeyVault.WebKey.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.AppService.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.BatchAI.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Cdn.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Compute.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.ContainerInstance.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.ContainerRegistry.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.ContainerService.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.CosmosDB.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Dns.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.EventHub.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Graph.RBAC.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.KeyVault.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Locks.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Monitor.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Msi.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Network.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Redis.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.ResourceManager.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Search.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.ServiceBus.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Sql.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.Storage.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Azure.Management.TrafficManager.Fluent.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Rest.ClientRuntime.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.WindowsAzure.Storage.pdb
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.WindowsAzure.Storage.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Newtonsoft.Json.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\obj\Release\EnterpriseAutomation.csprojAssemblyReference.cache
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\obj\Release\EnterpriseAutomation.csproj.CopyComplete
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\obj\Release\EnterpriseAutomation.dll
+D:\Office-Work-Items\EnterpriseAutomation\EnterpriseAutomation\obj\Release\EnterpriseAutomation.pdb
