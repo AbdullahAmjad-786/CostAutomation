@@ -99,8 +99,12 @@ stages:
             inputs:
               targetType: 'inline'
               script: |
-                # Write your PowerShell commands here.
-                
-                Add-WebConfigurationProperty -PSPath MACHINE/WEBROOT/APPHOST `
-                    -Name . -Filter system.webServer/httpProtocol/customHeaders `
-                    -AtElement @{name = "Cache-Control" ; value = 'private, no-cache, no-store, max-age=0'}
+                Set-WebConfigurationProperty -pspath MACHINE/WEBROOT/APPHOST/CostAutomationApp `
+                    -filter "system.webServer/staticContent/clientCache" `
+                    -name "cacheControlMode" -value "UseMaxAge"
+
+                Set-WebConfigurationProperty -pspath MACHINE/WEBROOT/APPHOST/CostAutomationApp `
+                    -filter "system.webServer/staticContent/clientCache" `
+                    -name "cacheControlMaxAge" -value "00:00:00"
+
+          
