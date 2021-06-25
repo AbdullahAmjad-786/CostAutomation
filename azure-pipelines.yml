@@ -67,10 +67,18 @@ stages:
             inputs:
               artifactName: 'CodeArtifact'
               downloadPath: '$(System.DefaultWorkingDirectory)'
-          - task: IISWebAppDeploymentOnMachineGroup@0
+
+          - task: IISWebAppManagementOnMachineGroup@0
+            displayName: 'Deploy to IIS'
             inputs:
-              WebSiteName: 'EnterpriseCost'
-              Package: '$(System.DefaultWorkingDirectory)\CodeArtifact\WebApp.zip'
-              RemoveAdditionalFilesFlag: true
-              TakeAppOfflineFlag: true
-              XmlVariableSubstitution: true
+              EnableIIS: true
+              IISDeploymentType: 'IISWebsite'
+              ActionIISWebsite: 'CreateOrUpdateWebsite'
+              WebsiteName: 'CostAutomationApp'
+              WebsitePhysicalPath: '%SystemDrive%\inetpub\wwwroot'
+              WebsitePhysicalPathAuth: 'WebsiteUserPassThrough'
+              CreateOrUpdateAppPoolForWebsite: true
+              AppPoolNameForWebsite: 'AppPool'
+              DotNetVersionForWebsite: 'v4.0'
+              PipeLineModeForWebsite: 'Integrated'
+              AppPoolIdentityForWebsite: 'ApplicationPoolIdentity'
