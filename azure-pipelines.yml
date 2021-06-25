@@ -34,7 +34,7 @@ steps:
   displayName: 'Run Powershell Script(If Any)'
   inputs:
     targetType: 'filePath'
-    filePath: $(System.DefaultWorkingDirectory)\*.ps1
+    filePath: $(System.DefaultWorkingDirectory)\test.ps1
     failOnStderr: true
     errorActionPreference: stop
     showWarnings: true
