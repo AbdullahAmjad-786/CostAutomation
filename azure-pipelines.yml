@@ -64,7 +64,7 @@ stages:
           - task: IISWebAppDeploymentOnMachineGroup@0
             inputs:
               WebSiteName: 'EnterpriseCost'
-              Package: 'CodeArtifact\WebApp.zip'
+              Package: '$(Build.ArtifactStagingDirectory)\CodeArtifact\WebApp.zip'
               RemoveAdditionalFilesFlag: true
               TakeAppOfflineFlag: true
               XmlVariableSubstitution: true
