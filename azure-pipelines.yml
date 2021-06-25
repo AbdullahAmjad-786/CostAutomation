@@ -26,7 +26,7 @@ stages:
     - task: NuGetCommand@2
       inputs:
         restoreSolution: '$(solution)'
-    
+
     - task: VSBuild@1
       displayName: 'Build Project'
       inputs:
@@ -34,7 +34,7 @@ stages:
         msbuildArgs: '/p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true /p:DesktopBuildPackageLocation="$(build.artifactStagingDirectory)\WebApp.zip" /p:DeployIisAppPath="Default Web Site"'
         platform: '$(buildPlatform)'
         configuration: '$(buildConfiguration)'
-        
+
     - task: PowerShell@2
       displayName: 'Run Powershell Script(If Any)'
       inputs:
@@ -43,7 +43,7 @@ stages:
         failOnStderr: true
         errorActionPreference: stop
         showWarnings: true
-    
+
     - task: PublishBuildArtifacts@1
       displayName: 'Publish Artifact'
       inputs:
@@ -55,7 +55,7 @@ stages:
   dependsOn: Build
   condition: succeeded('Build')
   jobs:
-  - deployment: IIS Deployment
+  - deployment: IIS_Deployment
     strategy:
       runOnce:
         deploy:
