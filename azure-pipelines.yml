@@ -17,8 +17,8 @@ variables:
 stages:
 - stage: Build
   jobs:
-  - job: Dev_Build
-    displayName: "Dev Build"
+  - job: Code_Build
+    displayName: "Code Build"
     steps:
     - task: NuGetToolInstaller@1
       displayName: 'Install Nuget'
@@ -51,7 +51,7 @@ stages:
         ArtifactName: 'CodeArtifact'
 
 - stage: Deployment
-  displayName: "Deploy App in IIS"
+  displayName: "Deployment"
   dependsOn: Build
   condition: succeeded('Build')
   jobs:
@@ -69,7 +69,7 @@ stages:
               downloadPath: '$(System.DefaultWorkingDirectory)'
 
           - task: IISWebAppManagementOnMachineGroup@0
-            displayName: 'Deploy to IIS'
+            displayName: 'Setup IIS'
             inputs:
               EnableIIS: true
               IISDeploymentType: 'IISWebsite'
@@ -89,3 +89,12 @@ stages:
               ParentWebsiteNameForApplication: CostAutomationApp
               VirtualPathForApplication: '%SystemDrive%\inetpub\wwwroot\CostAutomationApp'
               AppPoolNameForApplication: AppPool
+              
+          - task: IISWebAppDeploymentOnMachineGroup@0
+            displayName: 'Deploy App on IIS'
+            inputs:
+              WebSiteName: 'CostAutomationApp'
+              Package: '$(System.DefaultWorkingDirectory)\**\*.zip'
+              RemoveAdditionalFilesFlag: true
+              TakeAppOfflineFlag: true
+              XmlVariableSubstitution: true
