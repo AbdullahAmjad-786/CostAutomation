@@ -82,3 +82,10 @@ stages:
               DotNetVersionForWebsite: 'v4.0'
               PipeLineModeForWebsite: 'Integrated'
               AppPoolIdentityForWebsite: 'ApplicationPoolIdentity'
+              Bindings:
+              ParentWebsiteNameForVD: CostAutomationApp
+              VirtualPathForVD: '%SystemDrive%\inetpub\wwwroot\CostAutomationApp'
+              AppPoolName: AppPool
+              ParentWebsiteNameForApplication: CostAutomationApp
+              VirtualPathForApplication: '%SystemDrive%\inetpub\wwwroot\CostAutomationApp'
+              AppPoolNameForApplication: AppPool
