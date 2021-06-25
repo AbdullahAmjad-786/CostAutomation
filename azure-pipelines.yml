@@ -48,14 +48,19 @@ stages:
       ArtifactName: 'CodeArtifact'
 
 - stage: Deployment
-  displayName: "IIS Deployment"
+  displayName: "Deploy App in IIS"
   dependsOn: Build
   condition: succeeded('Build')
-  steps:
-  - task: IISWebAppDeploymentOnMachineGroup@0
-    inputs:
-      WebSiteName: 'EnterpriseCost'
-      Package: '$(System.DefaultWorkingDirectory)\**\*.zip'
-      RemoveAdditionalFilesFlag: true
-      TakeAppOfflineFlag: true
-      XmlVariableSubstitution: true
+  jobs:
+  - deployment: IIS Deployment
+    strategy:
+      runOnce:
+        deploy:
+          steps:
+          - task: IISWebAppDeploymentOnMachineGroup@0
+            inputs:
+              WebSiteName: 'EnterpriseCost'
+              Package: '$(System.DefaultWorkingDirectory)\**\*.zip'
+              RemoveAdditionalFilesFlag: true
+              TakeAppOfflineFlag: true
+              XmlVariableSubstitution: true
