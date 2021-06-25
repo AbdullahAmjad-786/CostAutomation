@@ -46,3 +46,16 @@ stages:
     inputs:
       PathtoPublish: '$(Build.ArtifactStagingDirectory)'
       ArtifactName: 'CodeArtifact'
+
+- stage: Deployment
+  displayName: "IIS Deployment"
+  dependsOn: Build
+  condition: succeeded('Build')
+  steps:
+  - task: IISWebAppDeploymentOnMachineGroup@0
+    inputs:
+      WebSiteName: 'EnterpriseCost'
+      Package: '$(System.DefaultWorkingDirectory)\**\*.zip'
+      RemoveAdditionalFilesFlag: true
+      TakeAppOfflineFlag: true
+      XmlVariableSubstitution: true
