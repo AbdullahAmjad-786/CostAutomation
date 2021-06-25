@@ -61,10 +61,16 @@ stages:
       runOnce:
         deploy:
           steps:
+          - download: none
+          - task: DownloadBuildArtifacts@0
+            displayName: "Downloading Artifacts"
+            inputs:
+              artifactName: 'CodeArtifact'
+              downloadPath: '$(System.ArtifactsDirectory)'
           - task: IISWebAppDeploymentOnMachineGroup@0
             inputs:
               WebSiteName: 'EnterpriseCost'
-              Package: '$(Build.ArtifactStagingDirectory)\CodeArtifact\WebApp.zip'
+              Package: '$(System.DefaultWorkingDirectory)\**\*.zip'
               RemoveAdditionalFilesFlag: true
               TakeAppOfflineFlag: true
               XmlVariableSubstitution: true
