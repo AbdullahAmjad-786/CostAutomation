@@ -33,9 +33,11 @@ steps:
 - task: PowerShell@2
   displayName: 'Run Powershell Script(If Any)'
   inputs:
-    filePath: '**/*.ps'
+    targetType: 'filePath'
+    filePath: $(System.DefaultWorkingDirectory)\*.ps1
     failOnStderr: true
-    pwsh: true
+    errorActionPreference: stop
+    showWarnings: true
 
 - task: PublishBuildArtifacts@1
   displayName: 'Publish Artifact'
