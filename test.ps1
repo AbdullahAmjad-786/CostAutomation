@@ -1,1 +1,1 @@
- Write-Host "Custom Script"
+ Write-Host "Custom Script added"
